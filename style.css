@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    
+  }
+
+  .box {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .box1 { background-color: grey;}
+  .box2 {background-color: violet;}
+  .box3 {background-color: turquoise;}
+  .box4 {background-color: orange;}
+  .box5 {background-color: brown;}
+  .box6 {background-color: yellow;}
+  .box7 {background-color: cyan;}
+  .box8 {background-color: purple;}
+  .box9 {background-color: magenta;}
